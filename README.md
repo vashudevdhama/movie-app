@@ -10,4 +10,5 @@
 **Upcoming functionalities:**
 
 - Filter movies based on rating
+- Pagination
 - Improve Search by using concept of debouncing.
